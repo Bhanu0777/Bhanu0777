@@ -7,10 +7,10 @@ Bhanu Teja here 👋<br>💻 C,JAVA,PYTHON Programmer | 📚 Problem Solver | �
 <div align="left">
   <a href="https://www.instagram.com/_mr_bhanu_____?igsh=Z2xxNmprbWl2bjQ2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  <!-- </a>
   <a href="24r11a6648@gcet.edu.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  </a> -->
   <a href="www.linkedin.com/in/bhanutejavanamala" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
